@@ -48,5 +48,9 @@ Once you enter your **email and password** in the **Blynk app**, it will automat
 4. Blynk App Delays:  
    - Sometimes, the Blynk app may lag, causing a delay between pressing the button and the servo moving.  
    - This is normal in cloud-based systems
+  
+
+      # [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/h2l5QHMlemQ)
+
 
 
